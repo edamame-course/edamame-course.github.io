@@ -12,7 +12,7 @@ amplicon, shotgun metagenomics and the skills needed to use these tools,
 such as the command line and cloud computing. A more detailed overview is
 below. 
 
-We hope these materials can be helpful if you're teaching these topics yourself, or to use them for self-guided learning. If you do find them helpful, please [let us know](mailto:edamame-course@gmail.com)
+We hope these materials can be helpful if you're teaching these topics yourself, or to use them for self-guided learning. If you do find them helpful, please [let us know](mailto:edamame.course@gmail.com)
 
 
 ## Materials
