@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "Accepting Applications"
 date:   2016-02-11 08:43:59
 author: Ben Centra
-categories: Dummy
+categories: #edamame2016
 ---
 
 We’re excited to announce that we are accepting applications for the Explorations in Data Analyses for Metagenomic Advances in Microbial Ecology (EDAMAME) workshop at Kellogg Biological Station 10-20 July 2016.  EDAMAME is an intensive, hands-on course in microbial metagenome analyses, covering workflows from raw sequence analysis through to multivariate statistics and ecological interpretation.  
