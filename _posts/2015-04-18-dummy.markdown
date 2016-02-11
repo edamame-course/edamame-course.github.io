@@ -6,11 +6,19 @@ author: Ben Centra
 categories: Dummy
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+We’re excited to announce that we are accepting applications for the Explorations in Data Analyses for Metagenomic Advances in Microbial Ecology (EDAMAME) workshop at Kellogg Biological Station 10-20 July 2016.  EDAMAME is an intensive, hands-on course in microbial metagenome analyses, covering workflows from raw sequence analysis through to multivariate statistics and ecological interpretation.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Please see our course website for more information (https://edamame-course.github.io/).  Application is available here (due March 21):  http://goo.gl/forms/Y3Cs0Bu2oB  
+
+The course supports and encourages diversity by creating an environment in which people can communicate effectively and share their unique talents. This diversity of talents enriches the course by fueling creativity, innovation, and success.
+
+Email edamame.course@gmail.com with questions!
+
+Tweet!  #edamame2016
+
+Thank you!
+The EDAMAME 2016 Instructors
+
+Ashley Shade, Michigan State University
+Adina Howe, Iowa State University
+Tracy K. Teal, Data Carpentry
