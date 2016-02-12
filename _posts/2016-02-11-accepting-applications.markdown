@@ -2,8 +2,8 @@
 layout: post
 title:  "Accepting Applications"
 date:   2016-02-11 08:43:59
-author: Ben Centra
-categories: #edamame2016
+author: Ashley Shade
+categories: applications
 ---
 
 We’re excited to announce that we are accepting applications for the Explorations in Data Analyses for Metagenomic Advances in Microbial Ecology (EDAMAME) workshop at Kellogg Biological Station 10-20 July 2016.  EDAMAME is an intensive, hands-on course in microbial metagenome analyses, covering workflows from raw sequence analysis through to multivariate statistics and ecological interpretation.  
@@ -19,6 +19,6 @@ Tweet!  #edamame2016
 Thank you!
 The EDAMAME 2016 Instructors
 
-Ashley Shade, Michigan State University
-Adina Howe, Iowa State University
-Tracy K. Teal, Data Carpentry
+Ashley Shade, Michigan State University  
+Adina Howe, Iowa State University  
+Tracy K. Teal, Data Carpentry  
