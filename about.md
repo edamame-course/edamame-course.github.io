@@ -11,7 +11,7 @@ Course email:  [edamame.course@gmail.com](mailto:edamame.course@gmail.com)
 **Description:**  EDAMAME is an intensive, hands-on course in microbial metagenome analyses, covering workflows from raw sequence analysis through to multivariate statistics and ecological interpretation.  
 **Twitter:**  #edamame2016
 
-### EDAMAME Learning Goals:**
+### EDAMAME Learning Goals:
 
 * Increase computing literacy
 * Develop proficiency in cloud computing
