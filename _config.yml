@@ -19,7 +19,8 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://edamame-course.github.io" # the base hostname & protocol for your site
 cover: "/assets/corn-blue-sky.jpg"
-logo: "/assets/logo.png"
+#logo: "/assets/logo.png"
+logo-name: Home
 
 # Build settings
 markdown: kramdown
