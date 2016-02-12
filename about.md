@@ -28,14 +28,13 @@ Dr. Ashley Shade is an assistant professor in the Department of Microbiology and
 
 <img src="{{ site.baseurl }}/assets/howe.jpg" title="Profile Picture" class="profile">
 
-Dr. Adina Howe [www.germslab.org](http://www.germslab.org) is an assistant professor in the
+[Dr. Adina Howe](http://www.germslab.org) is an assistant professor in the
 Department of Agricultural and Biosystems Engineering at Iowa State
 University.  Her research focuses on integrating traditional
 microbiology approaches with metagenomics and computational biology as
 investigative tools to understand environmental microbial populations.
-She enjoys programming and teach others about how she learned to do
-it.  You'll often find her playing volleyball, ultimate frisbee, or
-with a dog on her lap.
+She enjoys programming and teaching others about how she learned to do
+it.  You'll often find her playing volleyball, ultimate frisbee, or hanging out with her family and dog.
 
 <img src="{{ site.baseurl }}/assets/teal.jpg" title="Profile Picture" class="profile">
 
