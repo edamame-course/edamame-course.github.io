@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Applications Closed"
+title:  "Announcements!"
 date:   2016-06-07 15:30:00
 author: Ashley Shade
 categories: applications
