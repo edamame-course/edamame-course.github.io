@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcements!"
+title:  "Announcements and Course Schedule - Click Here!"
 date:   2016-06-07 15:30:00
 author: Ashley Shade
 categories: applications
