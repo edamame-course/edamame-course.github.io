@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-**Instructors:**  Dr. Ashley Shade  Microbiology and Molecular Genetics; Dr. Adina Howe, Iowa State University;  Dr. Tracy Teal, Data Carpentry  
+**Instructors:** Dr. Adina Howe, Iowa State University; Dr. Ashley Shade  Microbiology and Molecular Genetics; Dr. Tracy Teal, Data Carpentry  
 Course email:  [edamame.course@gmail.com](mailto:edamame.course@gmail.com)   
 **Location:** [Kellogg Biological Station](http://www.kbs.msu.edu)  
-**Dates:**  10 – 20 July 2016  
+**Dates:**  6 – 12 August 2017  
 **Description:**  EDAMAME is an intensive, hands-on course in microbial metagenome analyses, covering workflows from raw sequence analysis through to multivariate statistics and ecological interpretation.  
 **Cost:**  We estimate that the course will cost $1000, inclusive of room and meals at KBS and instruction.   
-**Twitter:**  #edamame2016
+**Twitter:**  #edamame2017
 
 ### EDAMAME Learning Goals:
 
@@ -21,11 +21,7 @@ Course email:  [edamame.course@gmail.com](mailto:edamame.course@gmail.com)
 * Apply ecological statistics to analyze and interpret microbial sequencing data
 * Access resources provided by public sequence databases
 
-### About the 2016 course instructors
-
-<img src="{{ site.baseurl }}/assets/shade.jpg" title="Profile Picture" class="profile">
-
-Dr. Ashley Shade is an assistant professor in the Department of Microbiology and Molecular Genetics at Michigan State University.  She has been leading the EDAMAME workshop since 2014.  Ashley has a Delta Certificate from the University of Wisconsin in Teaching-as-Research, and her teaching strategy involves continuous classroom feedback and student-directed, active learning.  Ashley is especially smitten with numerical ecology and multivariate analyses, and she speaks fluent R.  She often is pondering how rare microbial taxa contribute to their communities.  Ashley also loves tea, fermentation, Broadway, her snarky dog, and her awesome toddler (listed in no particular order).  
+### About the 2017 course instructors
 
 <img src="{{ site.baseurl }}/assets/howe.jpg" title="Profile Picture" class="profile">
 
@@ -36,6 +32,10 @@ microbiology approaches with metagenomics and computational biology as
 investigative tools to understand environmental microbial populations.
 She enjoys programming and teaching others about how she learned to do
 it.  You'll often find her playing volleyball, ultimate frisbee, or hanging out with her family and dog.
+<img src="{{ site.baseurl }}/assets/shade.jpg" title="Profile Picture" class="profile">
+
+Dr. Ashley Shade is an assistant professor in the Department of Microbiology and Molecular Genetics at Michigan State University.  She has been leading the EDAMAME workshop since 2014.  Ashley has a Delta Certificate from the University of Wisconsin in Teaching-as-Research, and her teaching strategy involves continuous classroom feedback and student-directed, active learning.  Ashley is especially smitten with numerical ecology and multivariate analyses, and she speaks fluent R.  She often is pondering how rare microbial taxa contribute to their communities.  Ashley also loves tea, fermentation, Broadway, her snarky dog, and her awesome toddler (listed in no particular order).  
+
 
 <img src="{{ site.baseurl }}/assets/teal.jpg" title="Profile Picture" class="profile">
 
@@ -48,3 +48,5 @@ affect soil microbial communities and how those communities might affect
 changes in the production and consumption of greenhouse gases. She likes 
 the soil and computers, but not together, and climbing mountains when she
 gets a chance.
+
+
