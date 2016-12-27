@@ -12,7 +12,7 @@ If you have questions about course logistics, please [let us know](mailto:edamam
 ## Lodging 
 
 * Lodging is available at [Kellog Biological Station](http://www.kbs.msu.edu/)
-* $370 per person - apt/dorms/cabins
+* $370 per person - apartments/dorms/cabins
 
 ## Meals
 
