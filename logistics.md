@@ -16,7 +16,15 @@ If you have questions about course logistics, please [let us know](mailto:edamam
 
 ## Meals
 
+Rates include the following meals (16 total): 
 
+* Monday:    Breakfast, Lunch, Dinner
+* Tuesday:   Breakfast, Lunch, Dinner
+* Wednesday: Breakfast, Lunch, Dinner
+* Thursday:  Breakfast, Lunch, Dinner
+* Friday:    Breakfast, Lunch
+* Saturday:  Breakfast, Lunch
+* Sunday:    none
 ***
 
 
