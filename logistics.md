@@ -25,6 +25,7 @@ Rates include the following meals (16 total):
 * Friday:    Breakfast, Lunch
 * Saturday:  Breakfast, Lunch
 * Sunday:    none
+
 ***
 
 
