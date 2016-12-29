@@ -9,14 +9,30 @@ below.
 
 If you have questions about course logistics, please [let us know](mailto:edamame.course@gmail.com)
 
+## Costs
+
+Lodging and meal costs must be paid in full at check-in to Kellogg Biological Station
+* $370/person/week - apartments/dorms/cabins
+* $15 processing fee for credit cards
+
 ## Lodging 
 
-* Lodging is available at [Kellog Biological Station](http://www.kbs.msu.edu/)
-* $370 per person - apartments/dorms/cabins
+Lodging is available at [Kellog Biological Station](http://www.kbs.msu.edu/)
+* $370/person/week - apartments/dorms/cabins
+* Limited family housing is available upon request
+  * Child care may be arranged upon request
+  * Child care costs are not included in course costs
+* Each room has the following amenities:
+  * Refrigorator (full or mini)
+  * Desk with chair
+  * Fan
+  * Wireless internet
+* KBS is a tobacco free campus 
+* No pets allowed
 
 ## Meals
 
-Rates include the following meals (16 total): 
+All included meals are served at [McCrary Dining Hall](http://conference.kbs.msu.edu/conference-center/food-and-beverage-service/), and special dietary requests (e.g., vegetarian) are accomodated. Rates include the following meals (16 total): 
 
 * Monday:    Breakfast, Lunch, Dinner
 * Tuesday:   Breakfast, Lunch, Dinner
@@ -26,6 +42,17 @@ Rates include the following meals (16 total):
 * Saturday:  Breakfast, Lunch
 * Sunday:    none
 
+## Technology 
+As a computational course, we have several technological requirements. 
+* Personal laptop
+* [R](https://cran.rstudio.com/) and [R studio](https://www.rstudio.com/products/rstudio/download/) installed
+* [Amazon EC2](https://aws.amazon.com/ec2/) account and access
+
+## Life at KBS
+
+* Laundry facilities (coin opperated) are available
+* KBS offers several outdoor activities including canoeing, swimming, hiking, soccer, volleyball
+* Bug spray will be useful for many outdoor activities at KBS
 ***
 
 
