@@ -18,6 +18,7 @@ Lodging and meal costs must be paid in full at check-in to Kellogg Biological St
 ## Lodging 
 
 Lodging is available at [Kellog Biological Station](http://www.kbs.msu.edu/)
+
 * $370/person/week - apartments/dorms/cabins
 * Limited family housing is available upon request
   * Child care may be arranged upon request
@@ -44,6 +45,7 @@ All included meals are served at [McCrary Dining Hall](http://conference.kbs.msu
 
 ## Technology 
 As a computational course, we have several technological requirements. 
+
 * Personal laptop
 * [R](https://cran.rstudio.com/) and [R studio](https://www.rstudio.com/products/rstudio/download/) installed
 * [Amazon EC2](https://aws.amazon.com/ec2/) account and access
