@@ -14,6 +14,7 @@ If you have questions about course logistics, please [let us know](mailto:edamam
 # Costs
 
 Lodging and meal costs must be paid in full at check-in to Kellogg Biological Station
+
 * $370/person/week - apartments/dorms/cabins
 * $15 processing fee for credit cards
 
