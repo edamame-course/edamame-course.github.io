@@ -55,6 +55,8 @@ As a computational course, we have several technological requirements.
 * Laundry facilities (coin opperated) are available
 * KBS offers several outdoor activities including canoeing, swimming, hiking, soccer, volleyball
 * Bug spray will be useful for many outdoor activities at KBS
+
+
 ***
 
 
