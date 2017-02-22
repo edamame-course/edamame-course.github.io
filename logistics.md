@@ -15,7 +15,7 @@ If you have questions about course logistics, please [let us know](mailto:edamam
 
 Lodging and meal costs must be paid in full at check-in to Kellogg Biological Station
 
-* $385/person/week - apartments/dorms/cabins
+* $370/person/week - apartments/dorms/cabins
 
 ### Lodging 
 Lodging is available at [Kellogg Biological Station](http://www.kbs.msu.edu/)
