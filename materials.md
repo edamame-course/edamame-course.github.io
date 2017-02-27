@@ -28,7 +28,7 @@ We hope these materials can be helpful if you're teaching these topics yourself,
 <h3>2014 Tutorials</h3>
 [Pages for 2014 tutorials](https://github.com/edamame-course/2014-tutorials/tree/master/_posts)
 
-## 2016 Materials Organized by Learning Goals
+## Past Materials Organized by Learning Goals
 * Computing literacy
    * [Intro to the Shell](https://github.com/edamame-course/2015-tutorials/blob/master/final/2015-06-22-introduction_to_the_shell.md)
    * [tmux for remote sessions](https://github.com/edamame-course/2015-tutorials/blob/master/final/2015-06-22_tmux.md)
