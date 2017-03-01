@@ -4,7 +4,7 @@ title: Logistics
 permalink: /logistics/
 ---
 
-We estimate that the course will cost $1000, including both room and board. A more detailed overview is
+We estimate that the course will cost $696, including both room and board. A more detailed overview is
 below. 
 
 If you have questions about course logistics, please [let us know](mailto:edamame.course@gmail.com)
@@ -12,16 +12,15 @@ If you have questions about course logistics, please [let us know](mailto:edamam
 ***
 
 ### Costs
-
-Lodging and meal costs must be paid in full at check-in to Kellogg Biological Station
-
-* $370/person/week - apartments/dorms/cabins
+All lodging and meals must be pre-registered and pre-paid for before arrival. Please register by Tuesday, August 1, 2017. Registration and payment can be sumbitted [here](https://events.anr.msu.edu/event.cfm?eventID=0CECE7408AA44C2E).
+* $370/person/week - lodging and 16 meals
+* $226 workshop fee - includes $15 registration fee
 
 ### Lodging 
 Lodging is available at [Kellogg Biological Station](http://www.kbs.msu.edu/)
 
 * $370/person/week - apartments/dorms/cabins
-* Limited family housing is available (email us for availability)
+* Limited family housing is available ([email us](mailto:edamame.course@gmail.com) for availability)
   * Child care may be arranged upon request
   * Child care costs are not included in course costs
 * Each room has the following amenities:
