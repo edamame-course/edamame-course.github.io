@@ -9,7 +9,7 @@ Course email:  [edamame.course@gmail.com](mailto:edamame.course@gmail.com)
 **Location:** [Kellogg Biological Station](http://www.kbs.msu.edu)  
 **Dates:**  6 – 12 August 2017  
 **Description:**  EDAMAME is an intensive, hands-on course in microbial metagenome analyses, covering workflows from raw sequence analysis through to multivariate statistics and ecological interpretation.  
-**Cost:**  We estimate that the course will cost $1000, inclusive of room and meals at KBS and instruction.   
+**Cost:**  The course will cost $696, inclusive of room and meals at KBS and instruction.   
 **Twitter:**  #edamame2017
 
 ### EDAMAME Learning Goals:
