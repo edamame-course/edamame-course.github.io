@@ -49,4 +49,13 @@ changes in the production and consumption of greenhouse gases. She likes
 the soil and computers, but not together, and climbing mountains when she
 gets a chance.
 
+### About the 2017 course coordinator 
+
+<img src="{{ site.baseurl }}/assets/dunivin.jpg" title="Profile Picture" class="profile">
+
+Taylor Dunivin is a PhD candidate in the departments of Microbiology & Molecular Genetics and Environmental Toxicology in Ashley Shade's lab at Michigan State University. 
+
+Her research focuses on using metagenomic analysis to understand arsenic and 
+antibiotic resistance gene dynamics in soil microbial communities. She likes
+cooking, hiking, yoga, and fizzy water.
 
