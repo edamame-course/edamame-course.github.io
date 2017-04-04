@@ -51,7 +51,7 @@ gets a chance.
 
 ### About the 2017 course coordinator 
 
-<img src="{{ site.baseurl }}/assets/dunivin.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/dunivin.png" title="Profile Picture" class="profile">
 
 Taylor Dunivin is a PhD candidate in the departments of Microbiology & Molecular Genetics and Environmental Toxicology in Ashley Shade's lab at Michigan State University. 
 
