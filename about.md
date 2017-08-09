@@ -31,7 +31,7 @@ University.  Her research focuses on integrating traditional
 microbiology approaches with metagenomics and computational biology as
 investigative tools to understand environmental microbial populations.
 She enjoys programming and teaching others about how she learned to do
-it.  You'll often find her playing volleyball, ultimate frisbee, or hanging out with her family and dog.
+it.  You'll often find her playing volleyball, ultimate frisbee, or hanging out with her family and dogs.
 <img src="{{ site.baseurl }}/assets/shade.jpg" title="Profile Picture" class="profile">
 
 Dr. Ashley Shade is an assistant professor in the Department of Microbiology and Molecular Genetics at Michigan State University.  She has been leading the EDAMAME workshop since 2014.  Ashley has a Delta Certificate from the University of Wisconsin in Teaching-as-Research, and her teaching strategy involves continuous classroom feedback and student-directed, active learning.  Ashley is especially smitten with numerical ecology and multivariate analyses, and she speaks fluent R.  She often is pondering how rare microbial taxa contribute to their communities.  Ashley also loves tea, fermentation, Broadway, her snarky dog, and her awesome toddler (listed in no particular order).  
@@ -58,4 +58,19 @@ Taylor Dunivin is a PhD candidate in the departments of Microbiology & Molecular
 Her research focuses on using metagenomic analysis to understand arsenic and 
 antibiotic resistance gene dynamics in soil microbial communities. She likes
 cooking, hiking, yoga, and fizzy water.
+
+### 2017 course instructors, teaching assistants, and guest lecturers
+
+* Jin Choi (Iowa State)
+* Phil Colgan (Iowa State)
+* Taylor Dunivin (Michigan State)
+* Jared Flater (Iowa State)
+* Nicole Ricker (Iowa State)
+* Schuyler Smith (Iowa State)
+* Jackson Sorenson (Michigan State)
+
+* Heather Allen (USDA-ARS)
+* Pat Schloss (University of Michigan)
+* James Tiedje (Michigan State)
+
 
