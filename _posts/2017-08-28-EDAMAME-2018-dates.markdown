@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EDAMAME 2018 dates
+title:  "EDAMAME 2018 dates"
 date:  2018-08-28 02:39:59   
 author: Taylor Dunivin
 categories: schedule
