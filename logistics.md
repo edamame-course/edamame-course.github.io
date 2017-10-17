@@ -4,7 +4,7 @@ title: Logistics
 permalink: /logistics/
 ---
 
-We estimate that the course will cost $696, including both room and board. A more detailed overview is
+We estimate that the course will cost < $1,000 , including both room and board. A more detailed overview is
 below. 
 
 If you have questions about course logistics, please [let us know](mailto:edamame.course@gmail.com)
@@ -12,7 +12,7 @@ If you have questions about course logistics, please [let us know](mailto:edamam
 ***
 
 ### Costs
-All lodging and meals must be pre-registered and pre-paid for before arrival. Please register by Tuesday, August 1, 2017. Registration and payment can be sumbitted [here](https://events.anr.msu.edu/event.cfm?eventID=0CECE7408AA44C2E).
+All lodging and meals must be pre-registered and pre-paid for before arrival.
 * $370/person/week - lodging and 16 meals
 * $226 workshop fee - includes $15 registration fee
 
