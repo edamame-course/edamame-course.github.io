@@ -7,10 +7,10 @@ permalink: /about/
 **Instructors:** Dr. Adina Howe, Iowa State University; Dr. Ashley Shade  Microbiology and Molecular Genetics; Dr. Tracy Teal, Data Carpentry  
 Course email:  [edamame.course@gmail.com](mailto:edamame.course@gmail.com)   
 **Location:** [Kellogg Biological Station](http://www.kbs.msu.edu)  
-**Dates:**  6 – 12 August 2017  
+**Dates:**   June 24-30, 2018 
 **Description:**  EDAMAME is an intensive, hands-on course in microbial metagenome analyses, covering workflows from raw sequence analysis through to multivariate statistics and ecological interpretation.  
 **Cost:**  The course will cost $696, inclusive of room and meals at KBS and instruction.   
-**Twitter:**  #edamame2017
+**Twitter:**  #edamame2018
 
 ### EDAMAME Learning Goals:
 
@@ -21,7 +21,7 @@ Course email:  [edamame.course@gmail.com](mailto:edamame.course@gmail.com)
 * Apply ecological statistics to analyze and interpret microbial sequencing data
 * Access resources provided by public sequence databases
 
-### About the 2017 course instructors
+### About the course instructors
 
 <img src="{{ site.baseurl }}/assets/howe.jpg" title="Profile Picture" class="profile">
 
@@ -49,7 +49,7 @@ changes in the production and consumption of greenhouse gases. She likes
 the soil and computers, but not together, and climbing mountains when she
 gets a chance.
 
-### About the 2017 course coordinator 
+### About the course coordinator 
 
 <img src="{{ site.baseurl }}/assets/dunivin.png" title="Profile Picture" class="profile">
 
