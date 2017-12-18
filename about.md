@@ -37,6 +37,18 @@ it.  You'll often find her playing volleyball, ultimate frisbee, or hanging out 
 Dr. Ashley Shade is an assistant professor in the Department of Microbiology and Molecular Genetics at Michigan State University.  She has been leading the EDAMAME workshop since 2014.  Ashley has a Delta Certificate from the University of Wisconsin in Teaching-as-Research, and her teaching strategy involves continuous classroom feedback and student-directed, active learning.  Ashley is especially smitten with numerical ecology and multivariate analyses, and she speaks fluent R.  She often is pondering how rare microbial taxa contribute to their communities.  Ashley also loves tea, fermentation, Broadway, her snarky dog, and her awesome toddler (listed in no particular order).  
 
 
+### Course coordinator 
+
+<img src="{{ site.baseurl }}/assets/dunivin.png" title="Profile Picture" class="profile">
+
+Taylor Dunivin is a PhD candidate in the departments of Microbiology & Molecular Genetics and Environmental Toxicology in Ashley Shade's lab at Michigan State University. 
+
+Her research focuses on using metagenomic analysis to understand arsenic and 
+antibiotic resistance gene dynamics in soil microbial communities. She likes
+cooking, hiking, yoga, and fizzy water.
+
+### Advisory 
+
 <img src="{{ site.baseurl }}/assets/teal.jpg" title="Profile Picture" class="profile">
 
 Dr. Tracy K. Teal is the Executive Director of [Data Carpentry](http://www.datacarpentry.org) and an adjunct Assistant Professor in BEACON at Michigan State.
@@ -48,16 +60,6 @@ affect soil microbial communities and how those communities might affect
 changes in the production and consumption of greenhouse gases. She likes 
 the soil and computers, but not together, and climbing mountains when she
 gets a chance.
-
-### About the course coordinator 
-
-<img src="{{ site.baseurl }}/assets/dunivin.png" title="Profile Picture" class="profile">
-
-Taylor Dunivin is a PhD candidate in the departments of Microbiology & Molecular Genetics and Environmental Toxicology in Ashley Shade's lab at Michigan State University. 
-
-Her research focuses on using metagenomic analysis to understand arsenic and 
-antibiotic resistance gene dynamics in soil microbial communities. She likes
-cooking, hiking, yoga, and fizzy water.
 
 ### 2017 course instructors, teaching assistants, and guest lecturers
 
