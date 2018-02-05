@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accepting Applications"
-date:   2018-12-18 14:59:59
+date:   2017-12-18 14:59:59
 author: Taylor Dunivin
 categories: applications
 ---
