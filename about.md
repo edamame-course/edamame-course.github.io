@@ -61,6 +61,22 @@ changes in the production and consumption of greenhouse gases. She likes
 the soil and computers, but not together, and climbing mountains when she
 gets a chance.
 
+### 2018 course instructors, teaching assistants, and guest lecturers
+
+* Jin Choi (Iowa State)
+* Taylor Dunivin (Michigan State)
+* Jared Flater (Iowa State)
+* Jaejin Lee (Iowa State)
+* Lanying Ma (Iowa State)
+* Jackson Sorenson (Michigan State)
+* Paul Villanueva (Iowa State) 
+
+* Thea Whitman (University of Wisconsin–Madison)
+* Stuart Jones (University of Notre Dame)
+* Pat Schloss (University of Michigan)
+* James Tiedje (Michigan State)
+
+
 ### 2017 course instructors, teaching assistants, and guest lecturers
 
 * Jin Choi (Iowa State)
@@ -72,6 +88,7 @@ gets a chance.
 * Jackson Sorenson (Michigan State)
 
 * Heather Allen (USDA-ARS)
+* Stuart Jones (University of Notre Dame)
 * Pat Schloss (University of Michigan)
 * James Tiedje (Michigan State)
 
