@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "the 2018 schedule has arrived!"
+date:  2018-04-27 010:43:59   
+author: Taylor Dunivin
+categories: applications
+---
+
+Our tentative [EDAMAME 2018 schedule](https://github.com/edamame-course/2018-Tutorials/wiki/Schedule-EDAMAME-2018) is up! We are looking forward to working on these analyses with all participants! 
+
+
