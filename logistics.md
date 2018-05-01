@@ -14,7 +14,7 @@ If you have questions about course logistics, please [let us know](mailto:edamam
 ### Costs
 All lodging and meals must be pre-registered and pre-paid for before arrival.
 * $370/person/week - lodging and 16 meals
-* $226 workshop fee - includes $15 registration fee
+* $326 workshop fee - includes $15 registration fee
 
 ### Lodging 
 Lodging is available at [Kellogg Biological Station](http://www.kbs.msu.edu/)
