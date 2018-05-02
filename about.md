@@ -64,6 +64,7 @@ gets a chance.
 ### 2018 course instructors, teaching assistants, and guest lecturers
 
 * Jin Choi (Iowa State)
+* Shane Dooley (Iowa State)
 * Taylor Dunivin (Michigan State)
 * Jared Flater (Iowa State)
 * Jaejin Lee (Iowa State)
