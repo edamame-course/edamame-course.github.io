@@ -16,6 +16,9 @@ We hope these materials can be helpful if you're teaching these topics yourself,
 
 
 ## Materials by Year
+<h3>2018 Tutorials</h3>
+* [2018 Schedule](https://github.com/edamame-course/2018-Tutorials/wiki/Schedule-EDAMAME-2018)
+
 <h3>2017 Tutorials</h3>
 * [Overview of 2017 materials](https://github.com/edamame-course/2017-tutorials/wiki)
 * [2017 Schedule](https://github.com/edamame-course/2017-tutorials/wiki/Schedule-EDAMAME-2017)
